@@ -61,12 +61,33 @@ const nirvagold = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirvagold&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvagold&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
+
+<!-- GitHub Stats - using github-readme-stats with cache busting -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nirvagold.vercel.app/api?username=nirvagold&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirvagold&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvagold&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvagold&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirvagold&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+<!-- GitHub Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nirvagold&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=nirvagold&theme=default&hide_border=true" alt="GitHub Streak"/>
+</picture>
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirvagold&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
