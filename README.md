@@ -62,32 +62,15 @@ const nirvagold = {
 
 <div align="center">
 
-<!-- GitHub Stats - using github-readme-stats with cache busting -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nirvagold.vercel.app/api?username=nirvagold&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nirvagold&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvagold&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvagold&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</picture>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nirvagold&theme=tokyonight&hide_border=true&background=0D1117" />
-  <img src="https://streak-stats.demolab.com/?user=nirvagold&theme=default&hide_border=true" alt="GitHub Streak"/>
-</picture>
-
-</div>
+<!-- GitHub Streak Stats - Most Reliable -->
+<img src="https://streak-stats.demolab.com/?user=nirvagold&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirvagold&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirvagold&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+
+<!-- GitHub Trophies - Alternative Stats Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=nirvagold&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+
 </div>
 
 ---
@@ -96,7 +79,9 @@ const nirvagold = {
 
 <div align="center">
 
-[![Stream Clipper](https://github-readme-stats.vercel.app/api/pin/?username=nirvagold&repo=stream-clipper&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nirvagold/stream-clipper)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Stream Clipper**](https://github.com/nirvagold/stream-clipper) | 🎬 Auto-detect highlights from streaming videos | Rust, Tauri, Svelte |
 
 </div>
 
