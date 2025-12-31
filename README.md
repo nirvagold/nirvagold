@@ -62,14 +62,11 @@ const nirvagold = {
 
 <div align="center">
 
-<!-- GitHub Streak Stats - Most Reliable -->
+<!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=nirvagold&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirvagold&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-
-<!-- GitHub Trophies - Alternative Stats Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=nirvagold&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 
 </div>
 
